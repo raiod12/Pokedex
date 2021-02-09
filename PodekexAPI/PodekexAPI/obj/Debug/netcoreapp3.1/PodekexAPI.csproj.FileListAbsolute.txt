@@ -1,0 +1,64 @@
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\PodekexAPI.exe
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.csprojAssemblyReference.cache
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.AssemblyInfoInputs.cache
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.AssemblyInfo.cs
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.RazorTargetAssemblyInfo.cache
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\staticwebassets\PodekexAPI.StaticWebAssets.Manifest.cache
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\staticwebassets\PodekexAPI.StaticWebAssets.xml
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.csproj.CopyComplete
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\PodekexAPI.deps.json
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\PodekexAPI.runtimeconfig.json
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\PodekexAPI.runtimeconfig.dev.json
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\PodekexAPI.dll
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\PodekexAPI.pdb
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.dll
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.pdb
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.genruntimeconfig.cache
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.csproj.CoreCompileInputs.cache
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Entrevista ADV\Pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\PodekexAPI.exe
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\PodekexAPI.deps.json
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\PodekexAPI.runtimeconfig.json
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\PodekexAPI.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\PodekexAPI.dll
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\PodekexAPI.pdb
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.AssemblyInfo.cs
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.csproj.CopyComplete
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\staticwebassets\PodekexAPI.StaticWebAssets.Manifest.cache
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\staticwebassets\PodekexAPI.StaticWebAssets.xml
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.dll
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.pdb
+C:\Users\Victor\Desktop\pokedex\PodekexAPI\PodekexAPI\obj\Debug\netcoreapp3.1\PodekexAPI.genruntimeconfig.cache
